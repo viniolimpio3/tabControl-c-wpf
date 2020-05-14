@@ -1,0 +1,10 @@
+C:\Users\vinio\source\repos\cadastro_aluno_atvd\cadastro_aluno_atvd\bin\Debug\cadastro_aluno_atvd.exe.config
+C:\Users\vinio\source\repos\cadastro_aluno_atvd\cadastro_aluno_atvd\bin\Debug\cadastro_aluno_atvd.exe
+C:\Users\vinio\source\repos\cadastro_aluno_atvd\cadastro_aluno_atvd\bin\Debug\cadastro_aluno_atvd.pdb
+C:\Users\vinio\source\repos\cadastro_aluno_atvd\cadastro_aluno_atvd\obj\Debug\cadastro_aluno_atvd.csprojAssemblyReference.cache
+C:\Users\vinio\source\repos\cadastro_aluno_atvd\cadastro_aluno_atvd\obj\Debug\cadastro_aluno_atvd.FormCadatrarAluno.resources
+C:\Users\vinio\source\repos\cadastro_aluno_atvd\cadastro_aluno_atvd\obj\Debug\cadastro_aluno_atvd.Properties.Resources.resources
+C:\Users\vinio\source\repos\cadastro_aluno_atvd\cadastro_aluno_atvd\obj\Debug\cadastro_aluno_atvd.csproj.GenerateResource.cache
+C:\Users\vinio\source\repos\cadastro_aluno_atvd\cadastro_aluno_atvd\obj\Debug\cadastro_aluno_atvd.csproj.CoreCompileInputs.cache
+C:\Users\vinio\source\repos\cadastro_aluno_atvd\cadastro_aluno_atvd\obj\Debug\cadastro_aluno_atvd.exe
+C:\Users\vinio\source\repos\cadastro_aluno_atvd\cadastro_aluno_atvd\obj\Debug\cadastro_aluno_atvd.pdb
